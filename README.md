@@ -113,15 +113,3 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 > Model: Random Forest with balanced class weights and 200 trees.
 
 ---
-
-## 📜 License
-Apache 2.0 — You’re free to use, modify, and distribute with attribution.
-
----
-
-## 📬 Contact
-**Kirtan Soni**  
-📧 sonikirtan2004@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kirtansoni02)
-
----
